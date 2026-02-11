@@ -1,0 +1,1 @@
+Aplikacja czatu w czasie rzeczywistym to projekt, który wymaga użycia WebSocketów lub innych technologii do komunikacji dwukierunkowej. Uczy synchronizacji danych między wieloma użytkownikami, obsługi zdarzeń i zarządzania sesjami. To świetny sposób na poznanie technologii backendowych i real-time web.

@@ -1,0 +1,1 @@
+Kalkulator to klasyczny projekt, który pozwala ćwiczyć logikę aplikacji i obsługę wejścia użytkownika. Można zacząć od prostych działań matematycznych, a następnie rozbudować kalkulator o bardziej zaawansowane funkcje, takie jak obsługa nawiasów czy pamięć wyników. Projekt ten uczy precyzyjnego zarządzania stanem i operacjami na danych.

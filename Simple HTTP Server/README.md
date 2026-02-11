@@ -1,0 +1,1 @@
+Budowa własnego prostego serwera HTTP pozwala zrozumieć, jak działa protokół HTTP, jak obsługiwać zapytania i wysyłać odpowiedzi. Projekt ten uczy podstaw sieci komputerowych, routingowania i zarządzania zasobami. To fundament do nauki backendu i tworzenia własnych API.

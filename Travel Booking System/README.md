@@ -1,0 +1,1 @@
+System rezerwacji podróży to aplikacja CRUD (Create, Read, Update, Delete) z integracją z zewnętrznymi API, np. do wyszukiwania lotów czy hoteli. Projekt uczy zarządzania bazą danych, autoryzacji użytkowników, routingiem i obsługą płatności. To praktyczne ćwiczenie dla osób chcących pracować nad aplikacjami webowymi o dużej skali.

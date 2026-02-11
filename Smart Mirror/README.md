@@ -1,0 +1,1 @@
+Smart mirror to projekt łączący hardware i software, gdzie na lustrze wyświetlane są informacje takie jak czas, pogoda, kalendarz czy wiadomości. Wymaga integracji z Raspberry Pi lub innym mikrokontrolerem oraz tworzenia interfejsu użytkownika. To ciekawy projekt pokazujący, jak programowanie może łączyć się z elektroniką.

@@ -1,0 +1,1 @@
+Edytor współdzielony na żywo pozwala wielu użytkownikom jednocześnie edytować ten sam dokument. Projekt ten jest bardzo zaawansowany i wymaga synchronizacji stanu, rozwiązywania konfliktów i optymalizacji przesyłania danych. Uczy pracy z WebSocketami, algorytmami CRDT lub Operational Transformation.

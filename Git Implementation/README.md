@@ -1,0 +1,1 @@
+Budowa własnego systemu kontroli wersji na wzór Gita pozwala zrozumieć, jak przechowywane są zmiany, jak działa historia commitów i zarządzanie gałęziami. To bardzo zaawansowany projekt, który uczy pracy z systemami plików i algorytmami.

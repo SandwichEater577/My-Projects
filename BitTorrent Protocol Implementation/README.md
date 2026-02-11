@@ -1,0 +1,1 @@
+Stworzenie własnej wersji protokołu BitTorrent to bardzo trudne zadanie, które wymaga znajomości sieci peer-to-peer, protokołów komunikacyjnych i zarządzania dużymi zbiorami danych. Projekt ten uczy zaawansowanych aspektów sieci i systemów rozproszonych.

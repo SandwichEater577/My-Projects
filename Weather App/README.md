@@ -1,0 +1,1 @@
+Aplikacja pogodowa pobiera dane z zewnętrznego API i wyświetla aktualną pogodę dla wybranego miasta. Projekt uczy integracji z API, obsługi zapytań HTTP oraz przetwarzania i wyświetlania danych JSON. To świetne ćwiczenie na praktyczne wykorzystanie wiedzy o asynchroniczności i pracy z danymi z internetu.

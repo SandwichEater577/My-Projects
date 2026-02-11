@@ -1,0 +1,1 @@
+Narzędzie do wizualizacji algorytmów pomaga zrozumieć działanie struktur danych i algorytmów sortowania, wyszukiwania czy grafów. Projekt wymaga dobrej znajomości algorytmów oraz umiejętności tworzenia interaktywnych wizualizacji. To świetne przygotowanie do rozmów kwalifikacyjnych i pogłębienie wiedzy teoretycznej.

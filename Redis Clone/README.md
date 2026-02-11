@@ -1,0 +1,1 @@
+Implementacja własnej bazy danych in-memory, podobnej do Redis, wymaga zrozumienia zarządzania pamięcią, struktur danych i optymalizacji wydajności. To projekt dla zaawansowanych, który rozwija wiedzę o systemach rozproszonych i niskopoziomowym programowaniu.

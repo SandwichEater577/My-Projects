@@ -1,0 +1,1 @@
+Tworzenie gry komputerowej to projekt łączący programowanie, grafikę i logikę. Wymaga projektowania mechanik, zarządzania stanem gry, obsługi zdarzeń i optymalizacji. To kreatywne wyzwanie, które rozwija umiejętności w wielu obszarach programowania.

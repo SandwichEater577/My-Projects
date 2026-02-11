@@ -1,0 +1,1 @@
+Generator losowych cytatów to aplikacja, która wyświetla za każdym razem inny cytat. Można go zbudować na podstawie statycznej listy cytatów lub pobierać dane z zewnętrznego API. Projekt ten uczy pracy z asynchronicznością, fetch API oraz manipulacji DOM. To prosty sposób na zrozumienie, jak działa komunikacja z serwerem i dynamiczne aktualizowanie treści.

@@ -1,0 +1,1 @@
+Implementacja własnej sieci neuronowej od podstaw to zaawansowany projekt, który wymaga zrozumienia matematyki uczenia maszynowego, propagacji wstecznej i optymalizacji. Uczy, jak działają podstawowe elementy AI i pozwala na eksperymentowanie z różnymi architekturami.

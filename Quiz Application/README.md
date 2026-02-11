@@ -1,0 +1,1 @@
+Projekt quizu to aplikacja, która zadaje pytania użytkownikowi i ocenia jego odpowiedzi. Uczy pracy z tablicami, warunkami, pętlami oraz dynamicznego generowania treści na stronie. Można też dodać timer lub system punktacji, co pozwala ćwiczyć bardziej zaawansowaną logikę. Quiz to świetny sposób na naukę podstaw programowania i tworzenia interaktywnych aplikacji webowych.

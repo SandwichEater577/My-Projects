@@ -1,0 +1,1 @@
+Śledzenie wydatków to bardziej zaawansowana aplikacja, która pozwala użytkownikowi dodawać, kategoryzować i analizować swoje finanse. Projekt wymaga pracy z bazą danych (np. lokalną lub zdalną), tworzenia wykresów i raportów oraz zarządzania stanem aplikacji. Uczy integracji frontendu z backendem i pracy z danymi w czasie rzeczywistym.

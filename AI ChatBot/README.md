@@ -1,0 +1,1 @@
+Budowa chatbota opartego na sztucznej inteligencji, który potrafi rozumieć i odpowiadać na pytania użytkowników, wymaga integracji z modelami NLP, obsługi API oraz zarządzania sesjami. To projekt łączący backend, AI i interfejs użytkownika.
